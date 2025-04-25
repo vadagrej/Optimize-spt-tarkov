@@ -7,12 +7,10 @@ Increases game process priority to High for improved CPU scheduling.
 Disables performance-heavy graphical features:
 
 Vertical Sync (VSync)
-
 Shadow Cascades
-
 Anti-Aliasing
-
 Pixel-based lighting (pixelLightCount)
+
 
 Reduces Level of Detail (LOD) bias for distant objects.
 
