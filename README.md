@@ -1,5 +1,6 @@
 # Optimize-spt-tarkov
 quick dll that optimize SPT tarkov
+<<<<<<< HEAD
 Features
 Performance Optimization
 Increases game process priority to High for improved CPU scheduling.
@@ -18,6 +19,9 @@ Sets maximum frame rate using Application.targetFrameRate = 999.
 
 AI Management
 Automatically disables AI (GameObject.SetActive(false)) when bots are located more than 200 meters from the player.
+=======
+Features: Automatically disables AI (GameObject.SetActive(false)) when bots are located more than 200 meters from the player.
+>>>>>>> 12867f0 (I'm tired boss: AI-only version with safe distance logic)
 
 Bot activity is evaluated every 2 seconds to minimize CPU load.
 
