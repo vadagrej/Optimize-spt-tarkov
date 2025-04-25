@@ -27,5 +27,3 @@ May reduce in-game difficulty when encountering distant AI enemies.
 
 Interface and Diagnostics
 Displays an on-screen message "FULL BOOST SAFE ACTIVE" at game startup for confirmation.
-
-Built on BepInEx and Harmony for modular patching and extendability.
