@@ -1,6 +1,6 @@
 # Optimize-spt-tarkov
 quick dll that optimize SPT tarkov
-AI Management
+=======
 Automatically disables AI (GameObject.SetActive(false)) when bots are located more than 200 meters from the player.
 =======
 Features: Automatically disables AI (GameObject.SetActive(false)) when bots are located more than 200 meters from the player.
